@@ -42,3 +42,24 @@ This GUI has been developed and tested on MATLAB R2021a. It should work on other
 <br>
 
 ![img](https://github.com/Ola-Mohamed/Image-Processing-/blob/main/Screen.png)
+
+------------
+
+# This Project was under supervision of:
+
+- Dr. Shady Yehia Elmashad
+- Eng. Mofida Mahmoud 
+
+## Team Members
+
+This Project was created due to the efforts of all the team members and their indescribable hard work.
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Ola-Mohamed"><img src="https://avatars.githubusercontent.com/u/66176966?v=4" width="150px;" alt=""/><br /><sub><b>Ola Mohamed Ahmed</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ahmedokka29"><img src="https://avatars.githubusercontent.com/u/56696104?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Gamal Mostafa</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ahmedashour28"><img src="https://avatars.githubusercontent.com/u/66414402?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Tarek</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/RamziMohamad"><img src="https://avatars.githubusercontent.com/u/66510024?v=4" width="150px;" alt=""/><br /><sub><b>Ramzi Mohamed</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Abdelrahman-Atef-Elsayed"><img src="https://avatars.githubusercontent.com/u/66162676?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Atef</b></sub></a><br /></td>
+    </tr>
+</table>
